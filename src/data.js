@@ -80,7 +80,7 @@ export const data = [
         showMore: false
         
     },
-     {
+        {
         id: 9,
         name: "Preemie 4-Piece Dino Take Me Home Set in Grey",
         description: "Keep your little one cozy in the comfy cuteness of the Dino Take Me Home Set from Gerber. Crafted in oh-so-soft cotton the set includes a Sleep 'n Play Footie, a cute bodysuit with dinosaur graphic, footed pant and a coordinating cap.",
@@ -90,7 +90,7 @@ export const data = [
         showMore: false
         
     },
-     {
+        {
         id: 10,
         name: "Size 3M 3-Piece Sweater, Hat, and Toy Set in Grey Highrise",
         description: "Soft chenille cardigan comes with a matching hat and easy-to-hold toy. Makes the perfect gift set",
