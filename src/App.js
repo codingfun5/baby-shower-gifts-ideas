@@ -74,7 +74,7 @@ function App() {
   
   
   
-  <div className=' picList'>
+  <div >
   <Pic   benefits={apparel}/>
   </div>
   
