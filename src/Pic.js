@@ -1,4 +1,7 @@
+import React from 'react';
 function Pic({benefits}) {
+
+
     return(
         <div className=' picList'>
             {benefits.map((think => {

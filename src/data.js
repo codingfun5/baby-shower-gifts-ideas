@@ -99,5 +99,222 @@ export const data = [
         source: "Source: SHOP EVER&EVER",
         showMore: false
         
-    }
+    },
+    
+    {
+  
+        clothesId: 1,
+    
+        clothesName: "Party dress",
+    
+        searchTerm: "dress",
+    
+        clothesPrice: 300.99,
+    
+        clothesImage: "https://images.unsplash.com/photo-1566174053879-31528523f8ae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZHJlc3N8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
+    
+      },
+    
+      {
+    
+        clothesId: 2,
+    
+        clothesName: "Summer dress",
+    
+        searchTerm: "dress",
+    
+        clothesPrice: 204.99,
+    
+        clothesImage: "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8ZHJlc3N8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
+    
+      },
+    
+    
+    
+      {
+    
+        clothesId: 3,
+    
+        clothesName: "Fancy pants",
+    
+        searchTerm: "pants",
+    
+        clothesPrice: 199.99,
+    
+        clothesImage: "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGFudHN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
+    
+      },
+    
+    
+    
+      {
+    
+        clothesId: 4,
+    
+        clothesName: "Jeans",
+    
+        searchTerm: "pants",
+    
+        clothesPrice: 100.99,
+    
+        clothesImage: "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8dHJvdXNlcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
+    
+      },
+    
+    
+    
+      {
+    
+        clothesId: 5,
+    
+        clothesName: "Cute skirt",
+    
+        searchTerm: "skirt",
+    
+        clothesPrice: 300.99,
+    
+        clothesImage: "https://images.unsplash.com/photo-1592301933927-35b597393c0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fHNraXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    
+      },
+    
+      {
+    
+        clothesId: 6,
+    
+        clothesName: "Beauty",
+    
+        searchTerm: "skirt",
+    
+        clothesPrice: 278.99,
+    
+        clothesImage: "https://images.unsplash.com/photo-1594226801341-41427b4e5c22?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHNraXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    
+      },
+    
+      {
+    
+        clothesId: 7,
+    
+        clothesName: "Business meeting",
+    
+        searchTerm: "shirt",
+    
+        clothesPrice: 285.99,
+    
+        clothesImage: "https://images.unsplash.com/photo-1608234807905-4466023792f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzl8fHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    
+      },
+    
+      {
+    
+        clothesId: 8,
+    
+        clothesName: "Lunch with friends",
+    
+        searchTerm: "shirt",
+    
+        clothesPrice: 284,
+    
+        clothesImage: "https://images.unsplash.com/photo-1605881528191-68f38c78e3d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTkxfHxzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+    
+      },
+    
+      {
+    
+        clothesId: 9,
+    
+        clothesName: "Carrie shoes",
+    
+        searchTerm: "shoes",
+    
+        clothesPrice: 305.99,
+    
+        clothesImage: "https://images.unsplash.com/photo-1573100925118-870b8efc799d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aGVlbHN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
+    
+      },
+    
+      {
+    
+        clothesId: 10,
+    
+        clothesName: "Amanda shoes",
+    
+        searchTerm: "shoes",
+    
+        clothesPrice: 305.99,
+    
+        clothesImage: "https://images.unsplash.com/photo-1627631457335-d1041fd0cb8c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGhlZWxzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    
+      },
+    
+      {
+    
+        clothesId: 11,
+    
+        clothesName: "Miranda shoes",
+    
+        searchTerm: "shoes",
+    
+        clothesPrice: 305.99,
+    
+        clothesImage: "https://images.unsplash.com/photo-1554238113-6d3dbed5cf55?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzl8fGhlZWxzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    
+      },
+    
+      {
+    
+        clothesId: 12,
+    
+        clothesName: "Cute dress",
+    
+        searchTerm: "dress",
+    
+        clothesPrice: 305.99,
+    
+        clothesImage: "https://images.unsplash.com/photo-1582533561751-ef6f6ab93a2e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8c2tpcnR8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
+    
+      },
+    
+      {
+    
+        clothesId: 13,
+    
+        clothesName: "Pants",
+    
+        searchTerm: "pants",
+    
+        clothesPrice: 100.99,
+    
+        clothesImage: "https://images.unsplash.com/photo-1517438476312-10d79c077509?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzN8fHBhbnRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    
+      },
+    
+      {
+    
+        clothesId: 14,
+    
+        clothesName: "Lunch with friends",
+    
+        searchTerm: "skirt",
+    
+        clothesPrice: 284,
+    
+        clothesImage: "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2tpcnR8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
+    
+      },
+    
+      {
+    
+        clothesId: 15,
+    
+        clothesName: "Lunch with friends",
+    
+        searchTerm: "shirt",
+    
+        clothesPrice: 284.99,
+    
+        clothesImage: "https://images.unsplash.com/photo-1559334417-a57bd929f003?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjIzfHxzaGlydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+    
+      }
+    
 ]
