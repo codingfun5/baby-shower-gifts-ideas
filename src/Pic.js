@@ -3,7 +3,7 @@ function Pic({benefits}) {
 
 
     return(
-        <div className=' picList'>
+        <div className='picList'>
             {benefits.map((think => {
                 const {listId, list} = think;
                 return(

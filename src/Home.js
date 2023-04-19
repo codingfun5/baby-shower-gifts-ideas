@@ -3,7 +3,7 @@ import { data } from './data'
 import { present } from './present';
 import Pic from './Pic';
 import { gifts } from './gifts';
-import './App.css';
+import './App.css';   
 import { useState } from 'react';
 
 
