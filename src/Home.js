@@ -7,7 +7,7 @@ import './App.css';
 import { useState } from 'react';
 
 
-
+ 
 function Home() {
   const [giftsList, setGiftsList] = useState(0);
   const {giftsId, giftsName, giftsImage, giftsPrice} = gifts[giftsList];
